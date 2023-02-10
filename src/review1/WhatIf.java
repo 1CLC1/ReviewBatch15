@@ -1,4 +1,4 @@
-package com.syntax.review1;
+package review1;
 
 public class WhatIf {
 
